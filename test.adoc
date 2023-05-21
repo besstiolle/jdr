@@ -1,0 +1,7 @@
+= Test fichier adoc
+
+ * a
+ * b
+ * c
+
+texte *is* made 
