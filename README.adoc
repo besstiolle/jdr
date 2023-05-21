@@ -1,0 +1,7 @@
+= Test fichier readme
+
+ * a main
+ * b main
+ * c main
+
+texte *is* made too :)
