@@ -11,7 +11,7 @@ Le jeu de rôle existe depuis les années 1970 et a pu évoluer à de très nomb
 Arrivé à mon tour en tant que parent j'ai eu plaisir à initier mes propres enfants à cet univers et j'ai pu faire le constat que ce qui existe sur le marché était essentiellement dédié 
 
  * A l'univers des adultes (PathFinder / D&D / Call Of Cthulhu / ...) bien trop violent pour de jeunes joueurs
- * A l'univers enfantin sous la forme de jeu/livre qui sont une bonne approche bien que relativement limitée en terme de réutilisation
+ * A l'univers enfantin sous la forme de jeu/livre qui sont une bonne approche bien que relativement limitée en termes de réutilisation
  * ... et c'est tout ?
 
 Passionné tout autant par l'univers de la narration que par l'informatique (comme par hasard) je me suis fortement étonné de l'absence de jeu de rôle dédié aux jeunes enfants au format open source. 
@@ -27,9 +27,9 @@ Et c'est évidemment à mes deux gobelins préférés Robin & Alix que je pense 
 La ligne maitresse de ce jeu est le respect de l'imaginaire de l'enfant dans sa conception et sa protection notamment émotionnelle. Pour que l'enfant puisse évoluer librement sans peur il est donc indispensable que le compteur respecte deux aspects fondamentaux du jeu : 
 
  * L'absence de situation angoissante pour les jeunes joueur et joueuses. Ainsi le compteur s'assure de ne jamais induire de situation qui puisse imposer de détresse émotionnelle dans les premiers niveaux de jeu (1 & 2 si besoin). Gardez en tête qu'un jeune enfant peut facilement perdre pied face à une histoire montée de toute pièce qui pour le commun des adultes serait une situation banale. Un chapitre entier vous aidera à appréhender ce phénomène et à adapter votre narration (à venir). 
- * Les lignes et le voile. Dans les niveaux 2 et 3 du jeu il est important de prendre en considération les capacités émotionnelles de chacuns. Ainsi des sujets comme la mort peuvent être une limite à ne pas franchir et il ne faudra donc jamais inclure la notion de mort, décès ou accident grave dans la narration du compteur. A l'invers il est possible d'aborder la notion des blessures au combat sous la forme du voile : nous restons alors vague dans la description (exemple : Tu frappes violamment le bras de ton adversaire qui crie et tombe à terre en tenant ce dernier comme il peut, incapable de se relever).
+ * Les lignes et le voile. Dans les niveaux 2 et 3 du jeu il est important de prendre en considération les capacités émotionnelles de chacun. Ainsi des sujets comme la mort peuvent être une limite à ne pas franchir et il ne faudra donc jamais inclure la notion de mort, décès ou accident grave dans la narration du compteur. A l'inverse il est possible d'aborder la notion des blessures au combat sous la forme du voile : nous restons alors vagues dans la description (exemple : Tu frappes violemment le bras de ton adversaire qui crie et tombe à terre en tenant ce dernier comme il peut, incapable de se relever).
 
-La seconde précaution à prendre relève dans la recherche de plaisir des enfants, pensez donc toujours à l'effet "cool". Réussir à sauver des animaux après avoir assommé leur goelier avec une chaussure pleine de terre est toujours plus "cool" que de devoir se référer à un livre de règles de 300 pages pour juger de cette faisabilité lorsque l'on a 10 ans. 
+La seconde précaution à prendre relève dans la recherche de plaisir des enfants, pensez donc toujours à l'effet "cool". Réussir à sauver des animaux après avoir assommé leur geôlier avec une chaussure pleine de terre est toujours plus "cool" que de devoir se référer à un livre de règles de 300 pages pour juger de cette faisabilité lorsque l'on a 10 ans. 
 
 == Composition du jeu
 
@@ -49,9 +49,9 @@ L'ensemble des cartes et objets sont téléchargeables sous la forme d'un PDF à
  
 == Comment fonctionne ce jeu de rôle ?
 
-Ce jeu de rôle narratif se déroule toujours avec un minimum d'un joueur et d'un compteur (narrateur, aussi appelé maitre du jeu ou parfois simplement maman ou papa). Il n'y a pas vraiment de limite haute mais gérer 3 gobelins dans une aventure est déjà une aventure en soi ... Le jeu se déroule comme une histoire dans laquelle l'enfant (ou les enfants) serait le héro. Le plateau de jeu est une matérialisation physique accompagnant  l'imaginaire avec une représentation d'un paysage, d'un point d'intérêt ou d'un personnage.
+Ce jeu de rôle narratif se déroule toujours avec un minimum d'un joueur et d'un compteur (narrateur, aussi appelé maitre du jeu ou parfois simplement maman ou papa). Il n'y a pas vraiment de limite haute mais gérer 3 gobelins dans une aventure est déjà une aventure en soi ... Le jeu se déroule comme une histoire dans laquelle l'enfant (ou les enfants) serait le héros. Le plateau de jeu est une matérialisation physique accompagnant l’imaginaire avec une représentation d'un paysage, d'un point d'intérêt ou d'un personnage.
 
-L'<<objectif, objectif>> des joueurs est toujours d'accomplir une tâche à priori compliquée mais qui sera courronnée de succès grace à l'aide que les joueurs auront ammassé sur le chemin de leur aventure.
+L'<<objectif, objectif>> des joueurs est toujours d'accomplir une tâche à priori compliquée mais qui sera couronnée de succès grâce à l'aide que les joueurs auront amassé sur le chemin de leur aventure.
 
 === Durée de jeu
 
@@ -59,21 +59,21 @@ Une partie se met en place en quelques instant et peut durer aussi longtemps que
 
 === Niveau de difficulté
 
-Le jeu et ses règles se déclinent en <<difficulte,3 niveaux de difficultée>> permettant d'initier à la fois de très jeunes joueurs et joueuses dès 6 ans tout en continuant à proposer une aventure attractive pour les grands frères et grandes soeurs bien plus agées. Le jeu s'adapte aux enfants et non l'inverse. Les règles sont simples et permettent pour autant à l'enfant de se projeter dans ces univers imaginaires.
+Le jeu et ses règles se déclinent en <<difficulte,3 niveaux de difficulté>> permettant d'initier à la fois de très jeunes joueurs et joueuses dès 6 ans tout en continuant à proposer une aventure attractive pour les grands frères et grandes sœurs bien plus âgées. Le jeu s'adapte aux enfants et non l'inverse. Les règles sont simples et permettent pour autant à l'enfant de se projeter dans ces univers imaginaires.
 
 Les enfants étant tous différents il est impossible de limiter ces niveaux selon des âges prédéfinit. Gardez en tête qu'il est peut être préférable de commencer avec <<difficulte,le premier niveau de difficulté>> plutôt que de "perdre" votre enfant avec des règles trop poussées qui ne lui parleront peut être pas.
 
 == Règles du jeu
 
-Etant par nature une aventure narrative avant toute chose, il n'y a pas de règle pré-établie mais nous vous proposons ci dessous un exemple de jeu pour une partie avec deux enfants débutant.
+Etant par nature une aventure narrative avant toute chose, il n'y a pas de règle préétablie mais nous vous proposons ci-dessous un exemple de jeu pour une partie avec deux enfants débutants.
 
-Plus loin nous entrerons en détail sur chaque concept avant de les décliner avec leur règles selon les 3 niveaux de jeu.
+Plus loin nous entrerons en détail sur chaque concept avant de les décliner avec leurs règles selon les 3 niveaux de jeu.
 
 === Préparer & lancer la session
 
 ==== 1 : Le matériel
 
-Prévoyez une <<inventaire, carte inventaire>> pour chaque joueur ainsi qu'un dé 6 faces. Installez vous à table et démarrez toujours par vous assurer que chacun est prêt à démarrer.
+Prévoyez une <<inventaire, carte inventaire>> pour chaque joueur ainsi qu'un dé 6 faces. Installez-vous à table et démarrez toujours par vous assurer que chacun est prêt à démarrer.
 
 ==== 2 : Tirer les cartes
 
@@ -82,8 +82,8 @@ Les cartes sont tirées de cette manière :
 * Le compteur tire une carte <<point-interet,point d'intérêt>> et la pose face aux joueurs, ils démarreront de cet endroit. Est-ce une ville ? une ruine notable de la région ? 
 * Le compteur tire 4 cartes <<biomes, biomes>> et les conserve caché des joueurs
 * Le compteur tire une seconde carte <<point-interet,point d'intérêt>> et l'insère au milieu des 4 cartes <<biomes,biomes>>
-* Le compteur tire une dernière carte <<point-interet,point d'intérêt>> et la pose face aux joueurs. Ceci est la destination de leur aventure. Un dongeon ? un village peut être ? 
-* Le compteur tire une <<objectif,carte objectif>> et l'ajoute au dessus de la carte <<point-interet,point d'intérêt>> précédente. 
+* Le compteur tire une dernière carte <<point-interet,point d'intérêt>> et la pose face aux joueurs. Ceci est la destination de leur aventure. Un donjon ? un village peut être ? 
+* Le compteur tire une <<objectif,carte objectif>> et l'ajoute au-dessus de la carte <<point-interet,point d'intérêt>> précédente. 
 
 ==== 3 : Démarrer la narration
 
@@ -91,20 +91,20 @@ Le jeu démarre déjà. Selon la localisation de départ ils seront enfants de p
 
 Sitôt que les héros s'élancent dans l'inconnu vous révélez l'une des cartes cachées toujours dans les mains du narrateur et vous complétez avec un <<jeton-particularite,jeton de particularité>> du lieu et un <<jeton-enjeu,jeton d'enjeu>> tous deux tirés au sort que vous révélés dans la foulée 
 
-Ces cartes et jetons sont placés sur la table sous la forme d'un cheminement qui, au fur et à mesure permettront aux héros d'arriver physiquement à la dernière carte : leur <<objectif ,objectif>>
+Ces cartes et jetons sont placés sur la table sous la forme d'un cheminement qui, au fur et à mesure permettront aux héros d'arriver physiquement à la dernière carte : leur <<objectif,objectif>>
 
 [[resolution]]
 === 4 : Résolution des étapes
 
 A chaque passage sur une carte <<biomes,biome>> les héros doivent résoudre une énigme, une situation que vous leur exposerez.
 
-Chaque tentative de résolution se valide avec un lancé de dé
+Chaque tentative de résolution se valide avec un lancer de dé
 
  * Tir 1-2 : échec de la tentative, il faut tenter autre chose
  * Tir 3-4 : succès de la tentative, vous pouvez poursuivre l'aventure
  * Tir 5-6 : succès critique, vous obtenez un objet tiré au hasard à placer dans votre inventaire
 
- Exemple : Face à un ogre qui bloque le passage d'un pont en demandant du poisson pour laisser passer, nos aventuriers décident de l'amadouer et font un premier jet d'une valeur de 1. L'ogre les regarde en rigolant et leur dit qu'il a bien trop faim pour les laisser passer sans contre partie. Seconde tentative différente, cette fois si ils tirent un 5 sur une diversion de la part d'un joueur doublé d'un 3 du second joueur pour tenter de se faufiler derrière l'ogre pour le chatouiller. Cette fois ça marche ! Mort de rire l'ogre ne peut empêcher nos amis de franchir le pont ce qu'ils font sans se faire prier. En quittant le pont le premier joueur en profite pour ramasser un objet laissé tombé par le troll. Un object qui lui sera certainement utile plus tard.
+ Exemple : Face à un ogre qui bloque le passage d'un pont en demandant du poisson pour laisser passer, nos aventuriers décident de l'amadouer et font un premier jet d'une valeur de 1. L'ogre les regarde en rigolant et leur dit qu'il a bien trop faim pour les laisser passer sans contrepartie. Seconde tentative différente, cette fois s’ils tirent un 5 sur une diversion de la part d'un joueur doublé d'un 3 du second joueur pour tenter de se faufiler derrière l'ogre pour le chatouiller. Cette fois ça marche ! Mort de rire l'ogre ne peut empêcher nos amis de franchir le pont ce qu'ils font sans se faire prier. En quittant le pont le premier joueur en profite pour ramasser un objet laissé tomber par le troll. Un objet qui lui sera certainement utile plus tard.
 
 === 5 : Usage de l'inventaire
 
@@ -114,7 +114,7 @@ Par défaut l'inventaire des joueurs est limité à 5 emplacements. Largement su
 
 === 6 : Les étapes des <<point-interet,points d'intérêt>>
 
-Ces étapes intermédiaires ne sont là que pour permettre d'enrichir la narration. Il n'y a pas nécesité de faire des résolutions d'étape mais pourquoi ne pas profiter de ces endroits pour faire de grandes rencontres qui deviendront de précieux alliers pour finir l'aventure ?
+Ces étapes intermédiaires ne sont là que pour permettre d'enrichir la narration. Il n'y a pas nécessité de faire des résolutions d'étape mais pourquoi ne pas profiter de ces endroits pour faire de grandes rencontres qui deviendront de précieux alliés pour finir l'aventure ?
 
 === 7 : Arrivée à destination
 
@@ -130,10 +130,10 @@ C'est maintenant la fin de la partie. En tant que compteur vous prendrez bien so
 Les cartes biomes sont caractérisées par des couleurs 
 
  * Rouge : les montagnes, les falaises, les collines, ...
- * Bleu : les lacs, les bord de mers, les iles, ...
+ * Bleu : les lacs, les bords de mers, les iles, ...
  * Vert : les forêts, les plaines, les campagnes, ...
- * Jaune : les déserts, la toundra; ...
- * Noir(*) : les marais, les cimetierres, les ruines d'antiques civilisations
+ * Jaune : les déserts, la toundra, ...
+ * Noir(*) : les marais, les cimetières, les ruines d'antiques civilisations
 
 (*) uniquement réservés au niveau de jeu 2 & 3
 
@@ -145,26 +145,26 @@ Ces cartes biomes possèdent deux emplacements.
 [[point-interet]]
 === Les points d'intérêts
 
-Les cartes réprésentant des points d'intérêt sont vierges d'indication, vous ne poserez dessus aucun jeton
+Les cartes représentant des points d'intérêt sont vierges d'indication, vous ne poserez dessus aucun jeton
 
-Ces cartes permettent de rythmer le jeu, de provoquer une étape durant laquelle un joueur pourra s'équiper, trouver de l'aide précieuse, gagner des caractéristiques importante pour la suite de son aventure.
+Ces cartes permettent de rythmer le jeu, de provoquer une étape durant laquelle un joueur pourra s'équiper, trouver de l'aide précieuse, gagner des caractéristiques importantes pour la suite de son aventure.
 
 Au fil de son aventure il rencontrera des petits challenges qui mettront son imagination à épreuve. Les lancés de dés servent alors à confirmer la bonne <<resolution, résolution de ces enjeux>>. Si un jet est raté, alors il suffit de tenter une autre approche.
 
 [[jeton-particularite]]
 === Les jetons de particularité
 
-De forme ronde et avec une couleur identique au biome, celui ci représente la particularité du lieu comme un jeton bleu représentant un phare pour un <<biomes,biome>> lié à l'eau. On tire ce jeton de manière aléatoire et on le pose face visible sur la carte <<biomes,biome>> lorsque celle ci est dévoilée aux joueurs.
+De forme ronde et avec une couleur identique au biome, celui-ci représente la particularité du lieu comme un jeton bleu représentant un phare pour un <<biomes,biome>> lié à l'eau. On tire ce jeton de manière aléatoire et on le pose face visible sur la carte <<biomes,biome>> lorsque celle-ci est dévoilée aux joueurs.
 
 [[jeton-enjeu]]
 === Les jetons d'enjeu
 
-De forme carré, celui ci représente l'enjeu présent dans cette étape. Comme pour <<jeton-particularite,le jeton de particularité>>, celui ci est tiré de manière aléatoire et posé sur la carte <<biomes,biome>> sur le plateau dans la foulée selon l'avancement de la narration. La <<resolution, résolution>> de cet enjeu par les joueurs permet d'avancer dans l'histoire voir même dans certains cas d'obtenir des <<inventaire, objets>> qui seront utiles plus tard
+De forme carré, celui-ci représente l'enjeu présent dans cette étape. Comme pour <<jeton-particularite,le jeton de particularité>>, celui-ci est tiré de manière aléatoire et posé sur la carte <<biomes,biome>> sur le plateau dans la foulée selon l'avancement de la narration. La <<resolution, résolution>> de cet enjeu par les joueurs permet d'avancer dans l'histoire voir même dans certains cas d'obtenir des <<inventaire, objets>> qui seront utiles plus tard
 
 [[objectif]]
 === Les cartes objectifs
 
-Une série de carte à tirer de manière aléatoire permettent de proposer une variété de sénario. 
+Une série de carte à tirer de manière aléatoire permettent de proposer une variété de scénario. 
 
 Au départ de chaque aventure il convient d'en tirer une et de la dévoiler aux joueurs en démarrant la narration.
 
@@ -173,21 +173,20 @@ Au départ de chaque aventure il convient d'en tirer une et de la dévoiler aux 
 
 Chaque jet de dé en succès critique (valeur 5 ou 6) peut donner lieu à l'attribution d'un objet comme récompense.
 
-Cet objet est à ajouter à l'inventaire du joueur qui par défaut possède 5 emplacements. Si un inventaire est plein, le héro devra se débarrasser d'un objet ou le donner à un compagnon.
+Cet objet est à ajouter à l'inventaire du joueur qui par défaut possède 5 emplacements. Si un inventaire est plein, le héros devra se débarrasser d'un objet ou le donner à un compagnon.
 
 Les objets collectés sont liés à une équipe et ne sont pas réservés à l'unique usage de son porteur. Il est donc recommandé de se concerter entre joueur pour savoir quel objet utiliser durant chaque étape pour aider à la <<resolution, résolution>> des <<jeton-enjeu,enjeux>>.
 
-== Les trois niveaux de difficultées
+== Les trois niveaux de difficultés
 
 Les règles sont conçues pour être cohérente entre elles à la fois pour un même niveau de difficulté mais également entre niveaux différents afin de permettre une évolutivité à la carte.
 
 Ainsi la gestion de l'inventaire de l'enfant peut évoluer sans que le reste du jeu ne s'en trouve impacté. Le plateau de jeu peut évoluer tout en conservant les premiers niveaux de règles des inventaires et des gestions des rencontres, et ainsi de suite.
 
-Pour faire simple nous explorons ici les différences entre le premier niveau de difficulté utilisé comme référence dans notre guide au dessus et les niveaux suivants
+Pour faire simple nous explorons ici les différences entre le premier niveau de difficulté utilisé comme référence dans notre guide au-dessus et les niveaux suivants
 
 <TODO>
 
 == La licence
 
 <TODO>
-
