@@ -35,14 +35,18 @@ La seconde précaution à prendre relève dans la recherche de plaisir des enfan
 
 Le jeu est composé de : 
 
- * 12 carte physique nommée biômes (avec des paysages) 
- * 5 cartes physique de même dimension nommées points d'intérêt (avec des lieux)
- * Autant de d6 que de joueurs + compteur (à fournir)
- * 12 cartes physique représentant de l'équipement
- * 5 cartes physique représentant un sac de voyage pour l'inventaire
- 
- Il y a également d'autres 
+ * 12 cartes représentant des paysages nommées <<biomes,biomes>>
+ * 6 cartes de même dimension représentant des localités nommées <<point-interet, points d'intérêt>>
+ * 12 <<jeton-particularite,jetons de particularités>>
+ * 12 <<jeton-enjeu,jetons d'enjeux>>
+ * 12 cartes <<objectif,objectifs>>
+ * 12 cartes représentant de <<inventaire,l'équipement>>
+ * 6 cartes représentant un sac de voyage pour <<inventaire,l'inventaire>>
 
+Et pensez à prévoir autant de d6 qu'il y a de de joueurs et de compteur
+ 
+L'ensemble des cartes et objets sont téléchargeables sous la forme d'un PDF à imprimer et à découper chez vous. <todo lien> 
+ 
 == Comment fonctionne ce jeu de rôle ?
 
 Ce jeu de rôle narratif se déroule toujours avec un minimum d'un joueur et d'un compteur (narrateur, aussi appelé maitre du jeu ou parfois simplement maman ou papa). Il n'y a pas vraiment de limite haute mais gérer 3 gobelins dans une aventure est déjà une aventure en soi ... Le jeu se déroule comme une histoire dans laquelle l'enfant (ou les enfants) serait le héro. Le plateau de jeu est une matérialisation physique accompagnant  l'imaginaire avec une représentation d'un paysage, d'un point d'intérêt ou d'un personnage.
@@ -83,7 +87,7 @@ Les cartes sont tirées de cette manière :
 
 ==== 3 : Démarrer la narration
 
-Le jeu démarre déjà. Selon la localisation de départ ils seront enfants de paysans ou bien filles et fils de chevalier. A vous de voir mais une chose est certaine : ils sont sur le point de traverser l'inconnu pour atteindre leur <<objectif ,objectif>> !
+Le jeu démarre déjà. Selon la localisation de départ ils seront enfants de paysans ou bien filles et fils de chevalier. A vous de voir mais une chose est certaine : ils sont sur le point de traverser l'inconnu pour atteindre leur <<objectif,objectif>> !
 
 Sitôt que les héros s'élancent dans l'inconnu vous révélez l'une des cartes cachées toujours dans les mains du narrateur et vous complétez avec un <<jeton-particularite,jeton de particularité>> du lieu et un <<jeton-enjeu,jeton d'enjeu>> tous deux tirés au sort que vous révélés dans la foulée 
 
@@ -150,13 +154,12 @@ Au fil de son aventure il rencontrera des petits challenges qui mettront son ima
 [[jeton-particularite]]
 === Les jetons de particularité
 
-De forme ronde et avec une couleur identique au biome, celui ci représente la particularité du lieu comme un jeton bleu représentant un phare pour un <<biome,biome>> lié à l'eau. On tire ce jeton de manière aléatoire et on le pose face visible sur la carte <<biome,biome>> lorsque celle ci est dévoilée aux joueurs.
-
+De forme ronde et avec une couleur identique au biome, celui ci représente la particularité du lieu comme un jeton bleu représentant un phare pour un <<biomes,biome>> lié à l'eau. On tire ce jeton de manière aléatoire et on le pose face visible sur la carte <<biomes,biome>> lorsque celle ci est dévoilée aux joueurs.
 
 [[jeton-enjeu]]
 === Les jetons d'enjeu
 
-De forme carré, celui ci représente l'enjeu présent dans cette étape. Comme pour <<jeton-particularite,Le jeton de particularité>>, celui ci est tiré de manière aléatoire et posé sur la carte <<biome,biome>> sur le plateau dans la foulée selon l'avancement de la narration. La <<resolution, résolution>> de cet enjeu par les joueurs permet d'avancer dans l'histoire voir même dans certains cas d'obtenir des <<inventaire, objets>> qui seront utiles plus tard
+De forme carré, celui ci représente l'enjeu présent dans cette étape. Comme pour <<jeton-particularite,le jeton de particularité>>, celui ci est tiré de manière aléatoire et posé sur la carte <<biomes,biome>> sur le plateau dans la foulée selon l'avancement de la narration. La <<resolution, résolution>> de cet enjeu par les joueurs permet d'avancer dans l'histoire voir même dans certains cas d'obtenir des <<inventaire, objets>> qui seront utiles plus tard
 
 [[objectif]]
 === Les cartes objectifs
