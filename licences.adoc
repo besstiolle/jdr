@@ -1,0 +1,9 @@
+= Sources
+
+Les images utilisées pour illustrer l'ensemble du jeu ont été généré via différentes solutions dont voici la liste
+
+ * Géneration des items de l'inventaire (link:https://huggingface.co/proximasanfinetuning/fantassified_icons_v2[lien])
+ * Génération des biomes et des cartes de points d'intérêt (link:https://beta.dreamstudio.ai/generate[lien])
+
+
+L'ensemble des images générées sont libres de droit (copyleft) (link:https://www.alenknight.com/?p=2276[en savoir plus])
