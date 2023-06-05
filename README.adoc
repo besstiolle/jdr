@@ -189,4 +189,8 @@ Pour faire simple nous explorons ici les différences entre le premier niveau de
 
 == La licence
 
-<TODO>
+Les informations liées aux licences d'usage sont disponibles link:licences.adoc[dans la page dédiée]
+
+== Construire son deck
+
+Voir link:build.adoc[la page de construction] pour en apprendre plus sur la manière de générer vos propres deck d'images

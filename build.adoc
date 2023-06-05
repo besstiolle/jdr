@@ -1,0 +1,34 @@
+= How To : Build
+
+== Construire les images à imprimer
+
+Pour assembler les images sources en de magnifiques combinaisons prêtes à l'impression il vous faut
+
+* Cloner ce repository ``git clone https://github.com/besstiolle/jdr.git``
+* Installer Python link:https://www.python.org/downloads/[3.10+]
+* Si ce n'est pas inclus, link:https://pip.pypa.io/en/stable/installation/[installer PIP]
+* Se positionner dans le répertoire ./scripts/src du repository cloné
+* exécuter la commande ``pip install opencv-python`` (cf doc du link:https://pypi.org/project/opencv-python/[projet])
+
+Vous trouverez dans le répertoire ./scripts/img-output l'ensemble des images à imprimer
+
+== Précaution à prendre
+
+Le projet étant en prototype, il n'y a aucun contrôle de cohérence sur les images fournies en amont. Respectez donc les dimensions des images sources sous peine de voir le programme échouer
+
+ * Biomes : 1536 * 1024
+ * Enjeu : 400 * 400 minimum, ratio 1:1
+ * Inventaire : <TODO>
+ * Particularite : 400 * 400 minimum, ratio 1:1
+ * Point d'intérêt :  1536 * 1024
+
+== Générer son propre deck d'images
+
+Tant que vous respectez la nomenclature des répertoires ainsi que le format proposé au dessus : vous pouvez ajouter/modifier/supprimer les images sources autant que vous le souhaitez. Il n'y a pas de limite réelle.
+
+== Bugs connus :
+
+ * Les accents dans les noms de fichiers font échouer le programme.
+ * Il n'y a pas de contrôle de cohérence & alerte sur la taille des images.
+ * Il n'y a pas de contrôle de cohérence & alerte sur les noms de dossier ni même leur présence.
+ * Il n'y a pas de contrôle & alerte si aucune image n'est présente côté source.
