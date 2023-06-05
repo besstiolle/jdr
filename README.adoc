@@ -24,10 +24,10 @@ Et c'est évidemment à mes deux gobelins préférés Robin & Alix que je pense 
 
 == Les précautions à prendre avant de démarrer
 
-La ligne maitresse de ce jeu est le respect de l'imaginaire de l'enfant dans sa conception et sa protection notamment émotionnelle. Pour que l'enfant puisse évoluer librement sans peur il est donc indispensable que le compteur respecte deux aspects fondamentaux du jeu : 
+La ligne maitresse de ce jeu est le respect de l'imaginaire de l'enfant dans sa conception et sa protection notamment émotionnelle. Pour que l'enfant puisse évoluer librement sans peur il est donc indispensable que le conteur respecte deux aspects fondamentaux du jeu : 
 
- * L'absence de situation angoissante pour les jeunes joueur et joueuses. Ainsi le compteur s'assure de ne jamais induire de situation qui puisse imposer de détresse émotionnelle dans les premiers niveaux de jeu (1 & 2 si besoin). Gardez en tête qu'un jeune enfant peut facilement perdre pied face à une histoire montée de toute pièce qui pour le commun des adultes serait une situation banale. Un chapitre entier vous aidera à appréhender ce phénomène et à adapter votre narration (à venir). 
- * Les lignes et le voile. Dans les niveaux 2 et 3 du jeu il est important de prendre en considération les capacités émotionnelles de chacun. Ainsi des sujets comme la mort peuvent être une limite à ne pas franchir et il ne faudra donc jamais inclure la notion de mort, décès ou accident grave dans la narration du compteur. A l'inverse il est possible d'aborder la notion des blessures au combat sous la forme du voile : nous restons alors vagues dans la description (exemple : Tu frappes violemment le bras de ton adversaire qui crie et tombe à terre en tenant ce dernier comme il peut, incapable de se relever).
+ * L'absence de situation angoissante pour les jeunes joueur et joueuses. Ainsi le conteur s'assure de ne jamais induire de situation qui puisse imposer de détresse émotionnelle dans les premiers niveaux de jeu (1 & 2 si besoin). Gardez en tête qu'un jeune enfant peut facilement perdre pied face à une histoire montée de toute pièce qui pour le commun des adultes serait une situation banale. Un chapitre entier vous aidera à appréhender ce phénomène et à adapter votre narration (à venir). 
+ * Les lignes et le voile. Dans les niveaux 2 et 3 du jeu il est important de prendre en considération les capacités émotionnelles de chacun. Ainsi des sujets comme la mort peuvent être une limite à ne pas franchir et il ne faudra donc jamais inclure la notion de mort, décès ou accident grave dans la narration du conteur. A l'inverse il est possible d'aborder la notion des blessures au combat sous la forme du voile : nous restons alors vagues dans la description (exemple : Tu frappes violemment le bras de ton adversaire qui crie et tombe à terre en tenant ce dernier comme il peut, incapable de se relever).
 
 La seconde précaution à prendre relève dans la recherche de plaisir des enfants, pensez donc toujours à l'effet "cool". Réussir à sauver des animaux après avoir assommé leur geôlier avec une chaussure pleine de terre est toujours plus "cool" que de devoir se référer à un livre de règles de 300 pages pour juger de cette faisabilité lorsque l'on a 10 ans. 
 
@@ -43,19 +43,19 @@ Le jeu est composé de :
  * 12 cartes représentant de <<inventaire,l'équipement>>
  * 6 cartes représentant un sac de voyage pour <<inventaire,l'inventaire>>
 
-Et pensez à prévoir autant de d6 qu'il y a de de joueurs et de compteur
+Et pensez à prévoir autant de d6 qu'il y a de de joueurs et de conteur
  
 L'ensemble des cartes et objets sont téléchargeables sous la forme d'un PDF à imprimer et à découper chez vous. <todo lien> 
  
 == Comment fonctionne ce jeu de rôle ?
 
-Ce jeu de rôle narratif se déroule toujours avec un minimum d'un joueur et d'un compteur (narrateur, aussi appelé maitre du jeu ou parfois simplement maman ou papa). Il n'y a pas vraiment de limite haute mais gérer 3 gobelins dans une aventure est déjà une aventure en soi ... Le jeu se déroule comme une histoire dans laquelle l'enfant (ou les enfants) serait le héros. Le plateau de jeu est une matérialisation physique accompagnant l’imaginaire avec une représentation d'un paysage, d'un point d'intérêt ou d'un personnage.
+Ce jeu de rôle narratif se déroule toujours avec un minimum d'un joueur et d'un conteur (narrateur, aussi appelé maitre du jeu ou parfois simplement maman ou papa). Il n'y a pas vraiment de limite haute mais gérer 3 gobelins dans une aventure est déjà une aventure en soi ... Le jeu se déroule comme une histoire dans laquelle l'enfant (ou les enfants) serait le héros. Le plateau de jeu est une matérialisation physique accompagnant l’imaginaire avec une représentation d'un paysage, d'un point d'intérêt ou d'un personnage.
 
 L'<<objectif, objectif>> des joueurs est toujours d'accomplir une tâche à priori compliquée mais qui sera couronnée de succès grâce à l'aide que les joueurs auront amassé sur le chemin de leur aventure.
 
 === Durée de jeu
 
-Une partie se met en place en quelques instant et peut durer aussi longtemps que le compteur le désire. 
+Une partie se met en place en quelques instant et peut durer aussi longtemps que le conteur le désire. 
 
 === Niveau de difficulté
 
@@ -79,17 +79,17 @@ Prévoyez une <<inventaire, carte inventaire>> pour chaque joueur ainsi qu'un d�
 
 Les cartes sont tirées de cette manière : 
 
-* Le compteur tire une carte <<point-interet,point d'intérêt>> et la pose face aux joueurs, ils démarreront de cet endroit. Est-ce une ville ? une ruine notable de la région ? 
-* Le compteur tire 4 cartes <<biomes, biomes>> et les conserve caché des joueurs
-* Le compteur tire une seconde carte <<point-interet,point d'intérêt>> et l'insère au milieu des 4 cartes <<biomes,biomes>>
-* Le compteur tire une dernière carte <<point-interet,point d'intérêt>> et la pose face aux joueurs. Ceci est la destination de leur aventure. Un donjon ? un village peut être ? 
-* Le compteur tire une <<objectif,carte objectif>> et l'ajoute au-dessus de la carte <<point-interet,point d'intérêt>> précédente. 
+* Le conteur tire une carte <<point-interet,point d'intérêt>> et la pose face aux joueurs, ils démarreront de cet endroit. Est-ce une ville ? une ruine notable de la région ? 
+* Le conteur tire 4 cartes <<biomes, biomes>> et les conserve caché des joueurs
+* Le conteur tire une seconde carte <<point-interet,point d'intérêt>> et l'insère au milieu des 4 cartes <<biomes,biomes>>
+* Le conteur tire une dernière carte <<point-interet,point d'intérêt>> et la pose face aux joueurs. Ceci est la destination de leur aventure. Un donjon ? un village peut être ? 
+* Le conteur tire une <<objectif,carte objectif>> et l'ajoute au-dessus de la carte <<point-interet,point d'intérêt>> précédente. 
 
 ==== 3 : Démarrer la narration
 
 Le jeu démarre déjà. Selon la localisation de départ ils seront enfants de paysans ou bien filles et fils de chevalier. A vous de voir mais une chose est certaine : ils sont sur le point de traverser l'inconnu pour atteindre leur <<objectif,objectif>> !
 
-Sitôt que les héros s'élancent dans l'inconnu vous révélez l'une des cartes cachées toujours dans les mains du narrateur et vous complétez avec un <<jeton-particularite,jeton de particularité>> du lieu et un <<jeton-enjeu,jeton d'enjeu>> tous deux tirés au sort que vous révélés dans la foulée 
+Sitôt que les héros s'élancent dans l'inconnu vous révélez l'une des cartes cachées toujours dans les mains du conteur  et vous complétez avec un <<jeton-particularite,jeton de particularité>> du lieu et un <<jeton-enjeu,jeton d'enjeu>> tous deux tirés au sort que vous révélés dans la foulée 
 
 Ces cartes et jetons sont placés sur la table sous la forme d'un cheminement qui, au fur et à mesure permettront aux héros d'arriver physiquement à la dernière carte : leur <<objectif,objectif>>
 
@@ -108,7 +108,7 @@ Chaque tentative de résolution se valide avec un lancer de dé
 
 === 5 : Usage de l'inventaire
 
-Les objets ramassés sont à usage unique en principe mais cette règle est laissée à la discrétion du compteur. Ils sont utilisables quand les joueurs le souhaitent sans restriction particulière. Cela peut les aider à se sortir de situation à priori sans issue.
+Les objets ramassés sont à usage unique en principe mais cette règle est laissée à la discrétion du conteur. Ils sont utilisables quand les joueurs le souhaitent sans restriction particulière. Cela peut les aider à se sortir de situation à priori sans issue.
 
 Par défaut l'inventaire des joueurs est limité à 5 emplacements. Largement suffisant pour triompher.
 
@@ -118,9 +118,9 @@ Ces étapes intermédiaires ne sont là que pour permettre d'enrichir la narrati
 
 === 7 : Arrivée à destination
 
-Il est temps de terminer cette aventure. Libre au compteur de préciser le quoi et aux héros de répondre au "comment" pour y arriver.
+Il est temps de terminer cette aventure. Libre au conteur de préciser le quoi et aux héros de répondre au "comment" pour y arriver.
 
-C'est maintenant la fin de la partie. En tant que compteur vous prendrez bien soin de vérifier si chaque enfant ressort satisfait 
+C'est maintenant la fin de la partie. En tant que conteur vous prendrez bien soin de vérifier si chaque enfant ressort satisfait 
  
 == Les concepts du jeu
 
@@ -189,8 +189,8 @@ Pour faire simple nous explorons ici les différences entre le premier niveau de
 
 == La licence
 
-Les informations liées aux licences d'usage sont disponibles link:licences.adoc[dans la page dédiée]
+Les informations liées aux licences d'usage sont disponibles link:licences[dans la page dédiée]
 
 == Construire son deck
 
-Voir link:build.adoc[la page de construction] pour en apprendre plus sur la manière de générer vos propres deck d'images
+Voir link:build[la page de construction] pour en apprendre plus sur la manière de générer vos propres deck d'images
